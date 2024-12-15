@@ -45,16 +45,16 @@ This folder contains React components for different parts of the application:
 ## How to Run the Project
 
 1. **Clone the repository**:
-   bash
+   ```bash
    git clone https://github.com/your-username/car-pooling-system.git
    cd car-pooling-system
-   
+   ```
 2. **Install dependencies**:
-   bash
+   ```bash
    npm install
-   
+   ```
 3. **Start the development server**:
-   bash
+   ```bash
    npm start
-   
+   ```
 The application will run on [http://localhost:3000/](http://localhost:3000/).
